@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.price{
+  font-size:15vmin;
+  text-align: center;
+}
+.up{
+  color: forestgreen;
+}
+.down{
+  color:red;
+}
